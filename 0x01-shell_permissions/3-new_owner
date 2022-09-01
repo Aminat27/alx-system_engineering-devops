@@ -1,3 +1,2 @@
 #!/bin/bash
 chown betty file_name
-
