@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# prints best school using while and on 9th 9 iteration print hi
+
+i=0
+
+while [ "$i" -lt 10 ]; do
+  echo "Best School"
+
+#if statement to print Hi
+  if [ "$i" -eq 8 ]; then
+    echo "Hi"
+  fi
+
+  ((i++))
+done
