@@ -1,4 +1,6 @@
 #configuration of ssh
-Host 100.26.240.45
+Host 146281-web-01
+    Hostname 100.26.240.45
+    User ubuntu
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
