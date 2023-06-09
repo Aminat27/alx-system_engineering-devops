@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""This script exports data retrieved
+"""nico
+This script exports data retrieved
 from an api request in JSON format"""
 if __name__ == '__main__':
     import json

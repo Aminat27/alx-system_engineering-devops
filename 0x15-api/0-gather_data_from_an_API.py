@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""This script returns information about his/her
+"""nico
+This script returns information about his/her
 todo list progress"""
 import requests as rq
 from sys import argv
